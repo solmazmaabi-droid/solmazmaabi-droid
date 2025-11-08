@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ I'm Solmaz
+
+I'm an aspiring front-end developer with a strong interest in creating responsive and user-friendly web applications.  
+I enjoy working with JavaScript and modern CSS frameworks.
+
+## 🔧 Technologies & Tools
+- HTML5, CSS3, JavaScript (ES6+)
+- React, Node.js (basic)
+- Git, GitHub, VS Code
+
